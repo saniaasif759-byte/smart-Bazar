@@ -1,0 +1,6 @@
+{
+  "name": "SmartBazar",
+  "description": "A smart grocery shopping assistant with real-time price comparisons across local stores.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
